@@ -1,2 +1,0 @@
-# Gizmocrt
-Vocal for local
